@@ -25,14 +25,14 @@ A lightweight, self-hosted, full-stack digital whiteboard application built from
 Open your terminal or command prompt inside this project folder and install Flask:
 ```bash
 pip install flask
-'''
+```
 
 ### 2. Start the Backend API Server
 Execute the application script to initialize the SQLite database (canvas_board.db) and spin up the backend network listener:
 
-'''bash
+```bash
 python app.py
-'''
+```
 
 ### 3. Launch the Workspace Interface
 Simply open your project folder and double-click the index.html file to launch the whiteboard application interface in your web browser.
